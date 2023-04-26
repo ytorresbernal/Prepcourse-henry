@@ -1,2 +1,1 @@
-# Prepcourse-henry
-Es un repositorio para prueba
+Este es un repositorio para hacer la prueba del modulo 2 desde remoto
